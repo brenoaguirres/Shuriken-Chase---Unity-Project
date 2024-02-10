@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 6951841273b733f4cb5da9b1b67fc9a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hazard_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851112a845e11bf428e9b7e935bd564a
+      internalID: 958645493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 398
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c850a1050dc92419ceefab2d41b946
+      internalID: -1212218907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 397
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4db00bbbb6bb42aaab22d116cb975
+      internalID: -1267862945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 399
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bf0bee59bf3447a4f6d4609a2e386
+      internalID: -1204547725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 398
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107d55f2bfda4f4285972493464679f
+      internalID: 281799584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 397
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72eab0730b22cd42b47fb5e3f3dd1bd
+      internalID: -483377020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 352
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5293f6378c0c884e8890402aef0ab36
+      internalID: -844803500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 342
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200c7b551ef8ef44aba65d9714b5521
+      internalID: -116650572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 345
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f72cde0363605741b0e2e9c1561839a
+      internalID: 1095321849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 350
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547206f10bc35d49888c8b9972bfc2a
+      internalID: 1223070142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 352
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9667d41389d9d84cb55dae3b2bc551a
+      internalID: -780685225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed305928864d424bb1a3739c1e3a01a
+      internalID: -1594823931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 342
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c380c5035f5e224f99a1fe00eac109f
+      internalID: 1629374507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 350
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2938c94497bf408f6bd75e7d45a4d
+      internalID: -337593505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 237
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b330195c2575a47be82f3d2f0cfabe
+      internalID: 999914417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 282
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23298f93674bdb444ada349538d1ba27
+      internalID: -655737653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 287
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e3b2f47e03724bb7e2394360b7ba5
+      internalID: 25426446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 279
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d7e39973d5714da9c9f1201e9ea69
+      internalID: -504979659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 300
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbfae4a69c08714f8046e67d4273361
+      internalID: 550312535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efdd3e9bcfdff4596232d0cbb9b122
+      internalID: 632628543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c100181ee78a3684b94d7ce675fbb47f
+      internalID: -1826819478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 235
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d15d75326ff54b93a005ce1c5c889
+      internalID: 176742015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 204
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b364abeb88dc4ba8c0eaac6d2fec2
+      internalID: 717738866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d253e529c68e83548a082a11b73146be
+      internalID: 1947640142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 184
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0dd6445864c9b44ae1006e615f2123
+      internalID: -412434167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb631ba2a391f4e9fb566e16e90545
+      internalID: -1754393469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fc4d55a84eef049aba6e22222c6175
+      internalID: 2095787320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 182
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48938ca67f091f44b888a3c329ca6b48
+      internalID: 183779310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 111
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078f80a4ba12b14d961e7629a306414
+      internalID: -1319296944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 137
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab40476e90fc741850b6c7c4e57329
+      internalID: -1795236614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 130
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1f1e47fe20364185c19a270723f29
+      internalID: -1247868540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178330eccfd87bf499eb37b662d62a23
+      internalID: 981390050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db9328b1e794174480f0ca2859f0dae
+      internalID: -360572214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117be209b0cad204ca0ce78b61001be8
+      internalID: -1007376036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 130
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b875646074136347851342360f19e14
+      internalID: -972899619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9d1d092ee80c4784ce3cb8202d34a
+      internalID: 1273811750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d2449fe2057ff46b3f92b0453efa2b
+      internalID: 560762436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 88
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0f7cea98224a4f95c03c88b71b8dd
+      internalID: 754487598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e36bb9418052468cf19a78dabc764
+      internalID: -388957402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 86
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52eed8d0c27ce41b1bde6db1541a01
+      internalID: 1226989360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 87
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b60090ecbd9c47bbd5695ee445af1
+      internalID: 119054303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 71
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f87fa27bf04e04383863752dbb1e6d
+      internalID: -1375767795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 70
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ed66153636984abcd5c4c9af4b995
+      internalID: -1112507193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 96
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a9bfb91c3ae34f90edd43d83aa354
+      internalID: 1176100559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ee2065a7eaf1428f8b5aa09d35a03
+      internalID: 559779316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 95
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e8df032388884f8c63e8c5cdacb46
+      internalID: 1890552387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0809519d4dbbff4e95bef7eb9b0f75c
+      internalID: -1362830445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfece9b70373bd44aa41965c73ede002
+      internalID: 432274018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde34e0bbe45ef542a2c287b17406b31
+      internalID: -1654674156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 94
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86346927896b95e4486f8d27bd38a889
+      internalID: 922461919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bd640e175c80439a50e0035962c5b
+      internalID: -1698275845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 92
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4120f1dde2a52f418d704827f60f649
+      internalID: -1972418724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 93
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a51b87d21640428376589a64d6b38
+      internalID: -738023045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 93
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef11334846dae4a8ce111b2c97db8d
+      internalID: 371662420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e90695d3e8ab345bc5e471a55b10e4
+      internalID: -1923485392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c022977c98b1374ea4a360d575ef9a5
+      internalID: 1356769755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5a876b466a1b43875338e7502db10
+      internalID: -2055670647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8a1486cd3ef3341b616556c57de18c
+      internalID: 145414976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218945b7126a1a344920603aca357f34
+      internalID: -299896397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326dc5cee66b32e4abaed7005361020b
+      internalID: 138357206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe678ef2f06f6408935bd93d4212c8
+      internalID: 1360295594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610814a5f5fb89449fdde6d510c740d
+      internalID: -762146321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959cbd665f554542a6ec9d60f8fa5b5
+      internalID: 442912539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 69
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350d31ae183d9345aae9ad48fc94a2f
+      internalID: -623276606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 69
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4e94b05db82d4ea2199fe19a08e64
+      internalID: -1521654418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 68
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2e86ab178da64e86eeb787238c616
+      internalID: 2000127122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 68
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf84ef2f19473c4081944fa9c38cfb5
+      internalID: -477277393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 70
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c20be084162945bed51e622d8ee0d
+      internalID: -1526561892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ea2019910c534782b6bf7ee44bbd3
+      internalID: 1888156618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 73
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c282b5f3007541a69d3e0708a1bdc
+      internalID: -1747062428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6ab44c987c69408af157f546538a3
+      internalID: -2131691218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 66
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b202e2c282511214a935d35d374ac353
+      internalID: 223496766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 66
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694768ffaadb6794c98b903234472cf4
+      internalID: 560395163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 65
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d8754596dfe2a45b30508bfa0db0fa
+      internalID: -412002093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 71
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c228cc2d7b914c945ff8f327abfc2
+      internalID: 1684691820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 67
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05ad3156fe93d4dae8a36b6dd2e26a
+      internalID: 409603650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 64
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cb79679a9381b468ba1dce711079b7
+      internalID: 625187598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 70
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a7ea0be4738c24b8be29e452b911a2
+      internalID: -1444845914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 71
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d603fe640b98514b8303317000afd81
+      internalID: -94326715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c541004c21469545b908e104edb7ffc
+      internalID: -141726041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bfd1dda6bd2b43b7e821b7c88d8b5
+      internalID: -2040803210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bf7a8a2a57934da8a5ec4779595c4
+      internalID: -1883972461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3b400bce0c8644a0f607661fe1e9b
+      internalID: -1321141509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072e94e4ca7f9542a09d6b9d39e5f40
+      internalID: -1604770794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 29
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea6574f636f12468907650a78b4c29
+      internalID: 958900071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9985f2bf677b1b54fb193bb0e1171be6
+      internalID: -1447412330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 30
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac04c51dee300247a4e456a8123072b
+      internalID: -747686334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 46
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75de29956ea93498819c086deab97f
+      internalID: 900524271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 45
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d5d809347e254aaefa6e6c297d9cc
+      internalID: 403890186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b038136b3affbe49a9a4c44e2f4873b
+      internalID: -1152584342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171fdd021247edd4288b1f0cd4ae8c98
+      internalID: 1157954139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 37
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84430fce307f4064da2335c29a4867ec
+      internalID: -331962317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 37
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c102bf94ae28bb14981bed2efe2db112
+      internalID: -1900556812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 37
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363abc8d8c480054ab13e8c93bd757a4
+      internalID: 262633174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 39
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd03d710263e3948b6a6cf13db5e3f2
+      internalID: -442929302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0104b6999d69848a94bbfc5bd901ee
+      internalID: -644547888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29227a767d4f14e4db42e83c80e02371
+      internalID: -46318244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd128098b61ae44399068ac786a1c1b
+      internalID: -1386147641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367bf039e830214f99e761120435967
+      internalID: -1368484515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a39ff3af68d0a4b8d538d9dd0f2b9a
+      internalID: -1920831831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 41
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d434e12285a6ba438f3ec59b6ff42ec
+      internalID: 358828725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b9fc38b941b24c9f819b745a5232d
+      internalID: 1732777302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b83c02e4bc09445b812897ccb6d67a
+      internalID: -604620478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 32
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426b8c68e227b140be1d683dc47a1fc
+      internalID: 87488670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 12
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e5adc6c89625479fe495fd63f5977
+      internalID: -293763987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 15
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110cd58ce17b935499588e3e4ea23945
+      internalID: -242246014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c937f391493148b4ef3677089c196
+      internalID: 222633688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 15
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2ad5da964d94419802a33df3c329a
+      internalID: -985905744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 12
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670f61ca19d97d4eafea153cc748e4f
+      internalID: 1869427142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c4452a922ac14a97242511cefa873
+      internalID: -1890857783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e059ca203e1c521498f1143319082449
+      internalID: 2733545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 17
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fde536162c56124b888399de9331e66
+      internalID: 1528049045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 14
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ab3556ff37be4880470b3ca359629
+      internalID: -197391681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hazard_spritesheet_0: 958645493
+      hazard_spritesheet_1: -1212218907
+      hazard_spritesheet_10: -780685225
+      hazard_spritesheet_100: 358828725
+      hazard_spritesheet_101: 1732777302
+      hazard_spritesheet_102: -604620478
+      hazard_spritesheet_103: 87488670
+      hazard_spritesheet_104: -293763987
+      hazard_spritesheet_105: -242246014
+      hazard_spritesheet_106: 222633688
+      hazard_spritesheet_107: -985905744
+      hazard_spritesheet_108: 1869427142
+      hazard_spritesheet_109: -1890857783
+      hazard_spritesheet_11: -1594823931
+      hazard_spritesheet_110: 2733545
+      hazard_spritesheet_111: 1528049045
+      hazard_spritesheet_112: -197391681
+      hazard_spritesheet_12: 1629374507
+      hazard_spritesheet_13: -337593505
+      hazard_spritesheet_14: 999914417
+      hazard_spritesheet_15: -655737653
+      hazard_spritesheet_16: 25426446
+      hazard_spritesheet_17: -504979659
+      hazard_spritesheet_18: 550312535
+      hazard_spritesheet_19: 632628543
+      hazard_spritesheet_2: -1267862945
+      hazard_spritesheet_20: -1826819478
+      hazard_spritesheet_21: 176742015
+      hazard_spritesheet_22: 717738866
+      hazard_spritesheet_23: 1947640142
+      hazard_spritesheet_24: -412434167
+      hazard_spritesheet_25: -1754393469
+      hazard_spritesheet_26: 2095787320
+      hazard_spritesheet_27: 183779310
+      hazard_spritesheet_28: -1319296944
+      hazard_spritesheet_29: -1795236614
+      hazard_spritesheet_3: -1204547725
+      hazard_spritesheet_30: -1247868540
+      hazard_spritesheet_31: 981390050
+      hazard_spritesheet_32: -360572214
+      hazard_spritesheet_33: -1007376036
+      hazard_spritesheet_34: -972899619
+      hazard_spritesheet_35: 1273811750
+      hazard_spritesheet_36: 560762436
+      hazard_spritesheet_37: 754487598
+      hazard_spritesheet_38: -388957402
+      hazard_spritesheet_39: 1226989360
+      hazard_spritesheet_4: 281799584
+      hazard_spritesheet_40: 119054303
+      hazard_spritesheet_41: -1375767795
+      hazard_spritesheet_42: -1112507193
+      hazard_spritesheet_43: 1176100559
+      hazard_spritesheet_44: 559779316
+      hazard_spritesheet_45: 1890552387
+      hazard_spritesheet_46: -1362830445
+      hazard_spritesheet_47: 432274018
+      hazard_spritesheet_48: -1654674156
+      hazard_spritesheet_49: 922461919
+      hazard_spritesheet_5: -483377020
+      hazard_spritesheet_50: -1698275845
+      hazard_spritesheet_51: -1972418724
+      hazard_spritesheet_52: -738023045
+      hazard_spritesheet_53: 371662420
+      hazard_spritesheet_54: -1923485392
+      hazard_spritesheet_55: 1356769755
+      hazard_spritesheet_56: -2055670647
+      hazard_spritesheet_57: 145414976
+      hazard_spritesheet_58: -299896397
+      hazard_spritesheet_59: 138357206
+      hazard_spritesheet_6: -844803500
+      hazard_spritesheet_60: 1360295594
+      hazard_spritesheet_61: -762146321
+      hazard_spritesheet_62: 442912539
+      hazard_spritesheet_63: -623276606
+      hazard_spritesheet_64: -1521654418
+      hazard_spritesheet_65: 2000127122
+      hazard_spritesheet_66: -477277393
+      hazard_spritesheet_67: -1526561892
+      hazard_spritesheet_68: 1888156618
+      hazard_spritesheet_69: -1747062428
+      hazard_spritesheet_7: -116650572
+      hazard_spritesheet_70: -2131691218
+      hazard_spritesheet_71: 223496766
+      hazard_spritesheet_72: 560395163
+      hazard_spritesheet_73: -412002093
+      hazard_spritesheet_74: 1684691820
+      hazard_spritesheet_75: 409603650
+      hazard_spritesheet_76: 625187598
+      hazard_spritesheet_77: -1444845914
+      hazard_spritesheet_78: -94326715
+      hazard_spritesheet_79: -141726041
+      hazard_spritesheet_8: 1095321849
+      hazard_spritesheet_80: -2040803210
+      hazard_spritesheet_81: -1883972461
+      hazard_spritesheet_82: -1321141509
+      hazard_spritesheet_83: -1604770794
+      hazard_spritesheet_84: 958900071
+      hazard_spritesheet_85: -1447412330
+      hazard_spritesheet_86: -747686334
+      hazard_spritesheet_87: 900524271
+      hazard_spritesheet_88: 403890186
+      hazard_spritesheet_89: -1152584342
+      hazard_spritesheet_9: 1223070142
+      hazard_spritesheet_90: 1157954139
+      hazard_spritesheet_91: -331962317
+      hazard_spritesheet_92: -1900556812
+      hazard_spritesheet_93: 262633174
+      hazard_spritesheet_94: -442929302
+      hazard_spritesheet_95: -644547888
+      hazard_spritesheet_96: -46318244
+      hazard_spritesheet_97: -1386147641
+      hazard_spritesheet_98: -1368484515
+      hazard_spritesheet_99: -1920831831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

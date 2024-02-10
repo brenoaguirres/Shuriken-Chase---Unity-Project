@@ -1,0 +1,83 @@
+// First Steps
+
+[x] setar ambiente
+[x] personagem correndo endless
+[x] efeito carrosel + efeito paralaxe
+[x] troca de lane
+[x] lançar shuriken
+[x] contagem de metros / passaros
+[x] deslizada (visual + inputs)
+[x] tap (visual + inputs)
+[x] state machine
+[x] inimigo basico geisha ninja
+[x] inimigo médio koi pond fish
+[x] inimigo avançado lançador de shuriken
+[x] morte + colisões
+[x] spawn de objetos com pooling de objetos
+[x] consertar glitch visual do carrosel
+[x] cenario placeholder
+[x] inputs mobile
+[ ] blocos scriptados e blocos randomicos
+[x] state machine do jogador
+[ ] pooling dos projéteis
+[ ] implementar a deslizada e o pulo e seus estados de invulnerabilidade
+[x] corrigir pulo do personagem (movimentar-se no eixo y)
+
+// Improvements
+
+[x] crates (guardam collectibles) e script do jogador de collectible receiver que passa mensagem adicionando score, shuriken ou coins.
+[ ] collectibles spawnam no mapa
+[x] max ammo count.
+[x] sons dos inimigos
+[x] reduzir cooldown da shuriken de 0.5 para 0.3
+[x] aumentar velocidade da troca de lane de 2 para 2.2
+[ ] state machines dos inimigos
+[x] implementar array de arrays de spawnables e um ponteiro que identifica quais devem ser spawnados via spawnRate
+[x] implementar flying koi pond fish (aparece por 1 segundo no canto e dps acelera), pode ser driblado com dash ou duck
+[x] implementar ninja geisha (so fica parado esperando o jogador, morre com shuriken)
+[ ] melhorar drop de shuriken, 65%, 100% quando estão zeradas
+
+// UI e UX
+
+[x] Trocar a fonte da UI para AssassinNinja (lembrar de dar creditos)
+[x] Texto da shuriken aumenta fontSize e muda cor para melhorar visibilidade
+[ ] Escolher uma fonte secundaria para textos
+[ ] Brainstorm para melhorar layout da UI de jogo.
+[ ] Missão inicial de treinamento demonstrando as funcionalidades
+[ ] Pausar ao fechar o app
+
+// visuals
+
+[x] aplicar letterboxing e pillarboxing para obter proporção de aspecto fixa em dipositivos diferentes.
+[x] diminuir escala dos itens na tela
+[x] particulas de sakura
+[ ] melhorar particulas de sakura
+[ ] particulas de sangue
+[ ] particulas coletáveis
+[ ] carpas na agua + particulas de agua
+[ ] passaros e cometas no ceu
+
+// Permanencia de Dados
+
+[ ] Leaderboards
+[ ] Sempre que um recorde for batido - tela de seleção de nome.
+[ ] implementar sistema de save com JSON
+
+// Menus
+
+[ ] Menu principal - Submenus e Opções
+[ ] Menu de seleção de fase
+
+// Level Design
+
+[ ] Criar Seções Scriptadas
+[ ] Elaborar dificuldade progressiva das seções randomicas
+[ ] Dividir por quantidade de metros (marcos) e script que muda as seções pelos marcos
+
+// Enemy Design
+
+[ ] Boss - Moonlight Kitsune? 
+
+// Level Difficulty Variables
+-> Enemy Spawn Rate
+-> Type of enemies spawn rates

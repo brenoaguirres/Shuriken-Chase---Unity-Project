@@ -1,0 +1,41 @@
+		  LEVEL DESIGN
+		LV1 - ZEN GARDEN.		
+
+
+ABILITIES -		LaneChange | Jump | Crouch | Shuriken 
+
+--------------------------------------------------------
+			COUNTERS
+--------------------------------------------------------
+
+ENEMIES   -
+
+Torii Gate			X |   | X |  
+Stone Lantern			X | X |   |
+
+HAZARDS   -
+
+NinjaGeisha			X |   |   | X
+KoiFish				X | X | X | X
+ZenArcher			X |   |   | X
+   (ZA Shuriken)		X | X |   | X
+
+Difficulty enemies ->>	NinjaGeisha << KoiFish << ZenArcher
+
+
+0-20m
+- What will spawn?
+- Which frequency each one will spawn?
+- Which frequency an object (any enemy or hazard) will spawn?
+
+20-40m
+???
+
+40-60m
+???
+
+60-80m
+???
+
+80-100m
+???
